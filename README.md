@@ -1,2 +1,2 @@
-# Tugas_18_golang
-  Mengumpulkan tugas 18 golang
+# Tugas_akhir_golang
+  Mengumpulkan tugas akhir golang
